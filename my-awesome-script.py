@@ -1,6 +1,2 @@
 #!/bin/python
-<<<<<<< HEAD
-print('Hello, Karnataka!')
-=======
-print('Hello people!')
->>>>>>> feature/my-enhacement-2
+print('Hello! World, how is it going?.')
